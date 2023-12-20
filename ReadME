@@ -1,0 +1,13 @@
+# Classic Tic Tac Toe Game in C++
+
+**Description:**
+Experience the timeless thrill of Tic Tac Toe with our meticulously crafted C++ implementation of this iconic game. This console-based application brings the simplicity and excitement of Tic Tac Toe to life, offering a seamless and enjoyable gaming experience for players of all ages.
+
+# OverView
+starting the game the user will have to enter the name of the 2 players and the.Then the boxes will be displayed including the numbers inside it. according to the turn and the numbers written in the boxe the player will have to enter that particular number to contain the place or box. 
+If the "x" or "O" gets aligned in a straight line or sequence then that particular player wins the game, else there will be tie/Draw in the game.
+
+**Dependencies**
+This program is written in C++ and does not require any external libraries.
+**Compatibility**
+The program is designed to run on any system with a C++ compiler.
